@@ -51,3 +51,9 @@ This project will go over the Pre Security learning path offered by TryHackMe th
   <br/><br/>
   <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Install</b></span>:  
+  <br/>
+  <img src="https://imgur.com/vmzKdBz.png" height="80%" width="80%"/>
+
+</div>
