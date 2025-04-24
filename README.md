@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project will go over how to add/install Roles and Features in Microsoft Server Manager. Roles and Features allows you to manage Windows Server roles and features remotely from a Windows computer. RSAT enables centralized management of multiple servers, eliminating the need to log in to each server individually. This includes tools like Server Manager, MMC snap-ins, consoles, PowerShell cmdlets, and command-line tools.
+This project will go over the Pre Security learning path offered by TryHackMe that will teach you the pre-requisite technical knowledge to get started in cyber security. To attack or defend any technology, you have to first learn how this technology works. The Pre-Security learning path is a beginner friendly and fun way to learn the basics.
 </b>
 
 
@@ -15,7 +15,7 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Windows Server Manager</b>
+ - <b>Pre Security</b>
 
 
 
@@ -24,7 +24,7 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
-- <b>Windows 10</b>
+- <b>TryHackMe</b>
 
 
 
