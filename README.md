@@ -35,25 +35,28 @@ This project will go over the Pre Security learning path offered by TryHackMe th
 
 <div style="text-align:center;">
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Section 1 - Introduction to Cyber Security</b></span>:  
   <br/>
-  <img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/08Tjjjc.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Tools (top-right)  OR  Click: 2 Add roles and features (top-middle of screen)</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Section 2 - Network Fundamentals</b></span>:  
   <br/>
-  <img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/ugUMKPr.png" height="80%" width="80%"/>
    <br /> <br /> <br /> <br />
-  <img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%"/>
-  <br /><br /><br /><br />
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Role-based or feature-based installation. Click: Next</b></span>: 
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Section 3 - How The Web Works</b></span>: 
   <br/><br/>
-  <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/nmdgSQA.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Install</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Section 4 - Linux Fundamentals</b></span>:  
   <br/>
-  <img src="https://imgur.com/vmzKdBz.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/cmINGAL.png" height="80%" width="80%"/>
+  <br /> <br /> <br /> <br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Section 5 - Windows Fundamentalss</b></span>:  
+  <br/>
+  <img src="https://imgur.com/ihNoDwr.png" height="80%" width="80%"/>
 
 </div>
